@@ -1,0 +1,19 @@
+{
+  "name": "db-mapper",
+  "version": "0.0.1",
+  "description": "Maps API Data from Versions < 2.0.0 to the redesigned Scheme and inserts it correctly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsgnhb/db-mapper.git"
+  },
+  "author": "dsgnhb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsgnhb/db-mapper/issues"
+  },
+  "homepage": "https://github.com/dsgnhb/db-mapper#readme"
+}
